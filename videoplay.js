@@ -17,6 +17,6 @@ function pause(){
 }
 
 function home(){
-  location.replace("file:///C:/Users/user/Desktop/doodle/index.html");
+  location.replace("https://albert222222.github.io/Doodle/");
   document.style.display="";
 }
