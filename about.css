@@ -1,0 +1,74 @@
+body{
+  margin: 0;
+  border:0;
+}
+img{
+  height:100%;
+  width:100%;
+}
+.heading{
+  font-size: 50px;
+  font-family: 'Roboto Condensed', sans-serif;
+  position:absolute;
+  top:150px;
+  left:50px;
+}
+.content{
+  font-size: 25px;
+  font-family: 'Oswald', sans-serif;
+  position: absolute;
+  top:200px;
+  padding: 50px;
+}
+a{
+  text-decoration: none;
+  color:#27496d;
+  font-family: 'Roboto Condensed', sans-serif;
+  padding:15px;
+  font-size: 20px;
+}
+li{
+  display:inline;
+}
+.navbar{
+  position:absolute;
+  top:10px;
+  left:800px;
+}
+.doodle{
+  font-family: 'Anton', sans-serif;
+  color:#27496d;
+  font-size: 40px;
+  position: absolute;
+  top:15px;
+  left:30px;
+}
+.footer{
+  background-color: #27496d;
+  height:200px;
+  width:100%;
+  position: absolute;
+  top:1000px;
+}
+.insta,.mail,.dribble{
+  height:50px;
+  width:50px;
+}
+.insta{
+  position: absolute;
+  top:110px;
+  left:550px;
+}
+.mail{
+  position: absolute;
+  top:110px;
+  left:630px;
+}
+.contact{
+  position: absolute;
+  top: 60px;
+  left:600px;
+  font-family: 'Oswald', sans-serif;
+  font-size: 20px;
+  color:white;
+}

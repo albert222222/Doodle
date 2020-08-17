@@ -1,0 +1,90 @@
+body{
+  border:0;
+  margin:0;
+}
+.signup_page{
+  background-color:#fa1616;
+  height:694px;
+}
+.form{
+  height:530px;
+  width:790px;
+  background-color:white;
+  position:absolute;
+  top:80px;
+  left:310px;
+  border-radius: 7px;
+  box-shadow: 0.5px 0.5px 10px black;
+}
+.signup{
+     font-family: 'Anton', sans-serif;
+     font-size: 40px;
+     position: absolute;
+     top:40px;
+     left:80px;
+     color:#221f3b;
+}
+.form_det{
+  position: absolute;
+  top:200px;
+  left:380px;
+}
+label{
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 20px;
+  color:#1b1c25;
+  padding:5px 5px 0 0;
+}
+input{
+  border:none;
+  border-bottom: 2px solid #797a7e;
+  width:300px;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 20px;
+  padding-top:10px;
+}
+.sub_div{
+  padding:15px;
+}
+button{
+  background-color: #1f4068;
+  color:white;
+  padding: 8px 16px;
+  border-radius: 5px;
+  border:none;
+  box-shadow: 0.5px 0.5px 5px black;
+  position:absolute;
+  top:300px;
+  left:40px;
+}
+button:active{
+  background-color: #1f4068;
+  color:white;
+  padding: 8px 16px;
+  border-radius: 5px;
+  border:none;
+  box-shadow: 2px 2px  #4D000000;
+}
+.my_video{
+  height:690px;
+  width:100%;
+}
+.anchor{
+  display:none;
+}
+.info{
+  height:530px;
+  width:380px;
+  position: absolute;
+  top:80px;
+  left:720px;
+  border-radius: 0 5px 5px 0 ;
+  color:white;
+  font-family: 'Oswald', sans-serif;
+  background-color: #1f4068;
+  font-size:20px;
+}
+.info-center{
+  padding:20px;
+  text-align: center;
+}
