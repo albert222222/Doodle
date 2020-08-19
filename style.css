@@ -32,7 +32,7 @@ a{
   padding:15px;
   font-size: 20px;
 }
-a{
+a:hover{
   text-decoration: none;
   color:blue;
   font-family: 'Roboto Condensed', sans-serif;
